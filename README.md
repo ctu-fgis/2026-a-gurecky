@@ -2,4 +2,4 @@
 
 ## GRASS website
 
-- https://github.com/OSGeo/grass-website/pulls?q=is%3Apr+author%3Agureckyfrantisek+
+- [SEO: Added titles and improved alts (Issue #524)](https://github.com/OSGeo/grass-website/pull/610)
