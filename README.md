@@ -7,3 +7,4 @@
 ## GRASS
 
 - [wxGUI/gmodeler: Correct variable replacement in model_convert.py](https://github.com/OSGeo/grass/pull/7241)
+- [r.lake.series: Parallelization of the tool](https://github.com/OSGeo/grass-addons/pull/1682)
